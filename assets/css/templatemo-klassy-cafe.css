@@ -1057,7 +1057,7 @@ menu
   background-image: url(../images/Our-Facilities-1.jpg);
 }
 .card2 {
-  background-image: url(../images/Our-Facilities-2.jpg);
+  background-image: url(../images/Our-Facilities-3.jpg);
 }
 .card3 {
   background-image: url(../images/Our-Facilities-3.jpg);
@@ -1746,7 +1746,6 @@ responsive
     width: 100%;
   }
 }
-
 
 #preloader .jumper > div {
   background-color: #fff;
