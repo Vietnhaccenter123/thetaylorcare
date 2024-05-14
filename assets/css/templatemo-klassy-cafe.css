@@ -1057,16 +1057,19 @@ menu
   background-image: url(../images/Our-Facilities-1.jpg);
 }
 .card2 {
-  background-image: url(../images/Our-Facilities-3.jpg);
+  background-image: url(../images/Our-Facilities-15.jpg);
 }
 .card3 {
-  background-image: url(../images/Our-Facilities-3.jpg);
+  background-image: url(../images/Our-Facilities-16.jpg);
 }
 .card4 {
   background-image: url(../images/Our-Facilities-4.jpg);
 }
 .card5 {
-  background-image: url(../images/Our-Facilities-5.jpg);
+  background-image: url(../images/Our-Facilities-18.jpg);
+}
+.card6 {
+  background-image: url(../images/Our-Facilities-19.jpg);
 }
 
 .info {
